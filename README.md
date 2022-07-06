@@ -18,6 +18,7 @@
  -  Perform following tasks depending on the state of the ‘select’ signal.
         
          State of ‘select’ signal                   Operation
+         
                 2’b00                      Increase brightness by ‘Value’
                 2’b01                      Decrease brightness by ‘Value’
                 2’b10                      Binarize the image using ‘Threshold’
